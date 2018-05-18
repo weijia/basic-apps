@@ -1,0 +1,3 @@
+[submodule "django-chronograph"]
+	path = django-chronograph
+	url = https://github.com/weijia/django-chronograph.git
