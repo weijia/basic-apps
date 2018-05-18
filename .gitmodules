@@ -1,3 +1,6 @@
 [submodule "django-chronograph"]
 	path = django-chronograph
 	url = https://github.com/weijia/django-chronograph.git
+[submodule "mptt-tree-view"]
+	path = mptt-tree-view
+	url = https://github.com/weijia/mptt-tree-view.git
