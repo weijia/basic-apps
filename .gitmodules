@@ -4,3 +4,6 @@
 [submodule "mptt-tree-view"]
 	path = mptt-tree-view
 	url = https://github.com/weijia/mptt-tree-view.git
+[submodule "obj_sys"]
+	path = obj_sys
+	url = https://github.com/weijia/obj_sys.git
