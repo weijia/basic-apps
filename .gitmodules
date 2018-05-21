@@ -7,3 +7,6 @@
 [submodule "obj_sys"]
 	path = obj_sys
 	url = https://github.com/weijia/obj_sys.git
+[submodule "django-excel-to-mode"]
+	path = django-excel-to-mode
+	url = https://github.com/weijia/django-excel-to-model.git
